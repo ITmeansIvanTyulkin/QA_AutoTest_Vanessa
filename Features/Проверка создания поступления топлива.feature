@@ -1,6 +1,7 @@
 ﻿#language: ru
 
-@tree
+@ExportScenarios
+@IgnoreOnCIMainBuild
 
 Функционал: проверка создания поступления топлива
 
